@@ -10,7 +10,7 @@ eg localhost:8888/class-names/build.php
 
 
 ## Output
-1. After visiting the build file the page will display a list of all class names on the page using this format:
+a. After visiting the build file the page will display a list of all class names on the page using this format:
 
 '500px',
 'amazon',
@@ -30,7 +30,7 @@ eg localhost:8888/class-names/build.php
 
 **You can edit the build.php file to change the format or to reinstate the fa- prefix.**
 
-2. In addition to the in page output a separate txt file is generated listing the fonts in the same format as rendered on the page ie /list/list-of-fontawesome-fonts.html
-3. A cheat sheet with basic styling and font example can be found by visiting the url: localhost:8888/class-names/cheat_sheet/
+b. In addition to the in page output a separate txt file is generated listing the fonts in the same format as rendered on the page ie /list/list-of-fontawesome-fonts.html
+c. A cheat sheet with basic styling and font example can be found by visiting the url: localhost:8888/class-names/cheat_sheet/
 
 
