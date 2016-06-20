@@ -45,4 +45,4 @@ $cheat_sheet = '<!DOCTYPE html>
   <body>';
 $cheat_sheet .= $cheat_sheet_icons; 
 $cheat_sheet .= '</body></html>';
-file_put_contents('cheat_sheet/font-awesome-cheat-sheet.html', $cheat_sheet);
+file_put_contents('cheat_sheet/index.html', $cheat_sheet);
